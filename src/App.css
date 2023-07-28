@@ -1,0 +1,11 @@
+.calculator {
+  background-color: black;
+  width: 25rem;
+  margin: 5rem auto;
+  color: white;
+}
+.btns {
+  margin: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,12 @@
+.display_screen {
+  height: 25vh;
+  font-size: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
+  margin: 0.5rem;
+}
+.prev {
+  font-size: 2rem;
+}

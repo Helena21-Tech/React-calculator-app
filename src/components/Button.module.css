@@ -1,0 +1,21 @@
+.btn {
+  height: 5rem;
+  width: 5rem;
+  border-radius: 20px;
+  margin: 0.5rem;
+  border: none;
+  color: white;
+}
+.double {
+  width: 11rem;
+}
+.action {
+  background-color: gray;
+  color: black;
+}
+.operand {
+  background-color: rgb(56, 56, 56);
+}
+.operator {
+  background-color: rgb(192, 132, 3);
+}
